@@ -1,0 +1,22 @@
+{
+  "name": "restrictedfileserver",
+  "version": "1.0.0",
+  "description": "Simple Static filer serve only allowing hardcoded creds.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuashoemaker/restrictedfileserver.git"
+  },
+  "author": "Joshua Shoemaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuashoemaker/restrictedfileserver/issues"
+  },
+  "homepage": "https://github.com/joshuashoemaker/restrictedfileserver#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
